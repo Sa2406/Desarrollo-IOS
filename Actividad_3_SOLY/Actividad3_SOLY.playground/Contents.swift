@@ -18,6 +18,11 @@ var decimal = 5.23
 var cadena = "Esto es una cadena de texto"
 var booleano = true
 
+var enteroOtro:Int = 25
+var decimalOtro:Double = 25.3
+var cadenaOtra:String = "Esta es otra cadena"
+var booleanoOtro:Bool = false
+
 /*:
 ### Asociación de tipos
 A) Declara el tipo de dato por asociación para un tipo de dato String
