@@ -10,7 +10,7 @@ import UIKit
 
 /*:
 ### Actividad de Tipos de datos
-A) Declarar cuatro variables con tres diferentes tipos de datos, cada uno que corresponda a una numero entero, un numero decimal (flotante), una cadena de texto
+A) Declarar cuatro variables con tres diferentes tipos de datos, cada uno que corresponda a una numero entero, un numero decimal (flotante), una cadena de texto, y booleano
 */
 
 var entero = 10
