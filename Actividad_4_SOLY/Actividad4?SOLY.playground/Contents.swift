@@ -1,11 +1,12 @@
 import UIKit
-
+//Saul Omar Lamas Yanez
 /*:
 # Playground - Actividad 4
 * Condicionales y Ciclos
 * Funciones
 * Enumareción
 */
+
 /*:
 ### Condicionales y Ciclos
 A) Declarar la variable "datos" con los valores [3,6,9,2,4,1]
