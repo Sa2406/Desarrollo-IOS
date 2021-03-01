@@ -1,5 +1,5 @@
 import UIKit
-
+//Saul Omar Lamas Yanez
 /*:
 # Playground - Actividad 5
 * Class y Struct
