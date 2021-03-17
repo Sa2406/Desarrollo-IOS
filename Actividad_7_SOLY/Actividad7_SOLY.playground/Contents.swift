@@ -16,7 +16,16 @@ A) Para la colección "var costo_referencia:[Float] = [8.3,10.5,9.9]", aplicar e
 
 
 var costo_referencia:[Float] = [8.3,10.5,9.9]
+//:Sin funcion
+var nuevo:[Float] = []
 
+for i in costo_referencia{
+    nuevo.append(i+(i*0.16))
+}
+
+print(nuevo)
+
+//: Con funcion
 func Impuesto(array:[Float])->[Float]{
     var imp:[Float] = []
 
