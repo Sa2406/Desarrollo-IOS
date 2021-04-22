@@ -13,6 +13,8 @@
 		F08690212631368100DB4B20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F086901F2631368100DB4B20 /* Main.storyboard */; };
 		F08690232631368200DB4B20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F08690222631368200DB4B20 /* Assets.xcassets */; };
 		F08690262631368200DB4B20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F08690242631368200DB4B20 /* LaunchScreen.storyboard */; };
+		F086902F263137A700DB4B20 /* Celda.swift in Sources */ = {isa = PBXBuildFile; fileRef = F086902D263137A700DB4B20 /* Celda.swift */; };
+		F0869030263137A700DB4B20 /* Celda.xib in Resources */ = {isa = PBXBuildFile; fileRef = F086902E263137A700DB4B20 /* Celda.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F08690222631368200DB4B20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F08690252631368200DB4B20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F08690272631368200DB4B20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F086902D263137A700DB4B20 /* Celda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Celda.swift; sourceTree = "<group>"; };
+		F086902E263137A700DB4B20 /* Celda.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Celda.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				F08690222631368200DB4B20 /* Assets.xcassets */,
 				F08690242631368200DB4B20 /* LaunchScreen.storyboard */,
 				F08690272631368200DB4B20 /* Info.plist */,
+				F086902D263137A700DB4B20 /* Celda.swift */,
+				F086902E263137A700DB4B20 /* Celda.xib */,
 			);
 			path = Actividad_11_SOLY;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 				F08690262631368200DB4B20 /* LaunchScreen.storyboard in Resources */,
 				F08690232631368200DB4B20 /* Assets.xcassets in Resources */,
 				F08690212631368100DB4B20 /* Main.storyboard in Resources */,
+				F0869030263137A700DB4B20 /* Celda.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				F086901E2631368100DB4B20 /* ViewController.swift in Sources */,
 				F086901A2631368100DB4B20 /* AppDelegate.swift in Sources */,
 				F086901C2631368100DB4B20 /* SceneDelegate.swift in Sources */,
+				F086902F263137A700DB4B20 /* Celda.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
