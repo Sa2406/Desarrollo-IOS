@@ -17,7 +17,7 @@ class GameScene: SKScene {
     override func didMove(to view: SKView) {
         fondo.position = CGPoint(x: self.frame.midX, y: self.frame.midY)
         nave.size = CGSize(width: 200, height: 200)
-        nave.position = CGPoint(x: 0, y: -300)
+        nave.position = CGPoint(x: 0, y: -305)
         fondo.zPosition = -1
         
         addChild(fondo)
@@ -29,7 +29,7 @@ class GameScene: SKScene {
     }
     
     override func update(_ currentTime: TimeInterval) {
-        nave.position = CGPoint(x: 0, y: -300)
+        nave.position = CGPoint(x: 0, y: -305)
     }
     
 }
